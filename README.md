@@ -8,7 +8,7 @@ This project utilizes the Retrieval-Augmented Generation (RAG) model to create a
 ## 🛠️ RAG (Retrieval-Augmented Generation)
 RAG combines retrieval-based methods with language generation, enabling the AI agent to retrieve relevant information from a large dataset and generate responses based on the retrieved data. This approach enhances the agent's ability to provide accurate and contextually relevant answers to user queries.
 
-## 🚀 Usage
+## 🎯 Usage
 1. **Main Functionality:** The primary function of the AI agent is to answer questions regarding global population statistics and provide detailed insights into South Korea.
    
 2. **Data Sources:**
