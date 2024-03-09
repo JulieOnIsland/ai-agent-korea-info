@@ -1,4 +1,4 @@
-# RAG-based AI Agent for World Population and Korea Data
+# 🤖 RAG-based AI Agent for World Population and Korea Data
 
 Welcome to the RAG-based AI Agent project, designed to provide quick and accurate information on global population statistics and detailed information about South Korea. 🌍🇰🇷
 
@@ -19,3 +19,6 @@ RAG combines retrieval-based methods with language generation, enabling the AI a
 
 ## Implementation
 The project is implemented in Python, with the main functionality encapsulated in the `main.py` script. This script orchestrates the interaction between various components, including query engines, tools, and the RAG-based AI model.
+
+## Reference
+This repository was created based on the "ADVANCED Python AI Agent Tutorial - Using RAG" YouTube video by TechWithTim. You can find the tutorial [here](https://www.youtube.com/watch?v=ul0QsodYct4&ab_channel=TechWithTim).
