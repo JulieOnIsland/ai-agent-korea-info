@@ -1,0 +1,5 @@
+llama_index==0.10.18
+pypdf==4.0.1
+python-dotenv==1.0.1
+pandas==2.2.0
+openai==1.13.3
